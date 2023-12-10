@@ -1,8 +1,7 @@
 import pandas as pd
 import psycopg2
-from sqlalchemy import create_engine
+from sqlalchemy import Column, MetaData, String, Table, create_engine
 from urllib.parse import quote_plus
-
 
 # PostgreSQL connection details
 # (replace with your actual credentials)
@@ -13,7 +12,6 @@ db_port = '5432'
 db_name = 'AOI'
 
 # Format the password for the connection string
-# This escapes special characters in the password
 password = quote_plus(db_password)
 
 # Paths to your Excel files
@@ -40,5 +38,28 @@ engine = create_engine(f'postgresql://{db_user}:{password}@{db_host}:{db_port}/{
 researchers_df.to_sql('researchers_table', engine, if_exists='replace', index=False)
 articles_df.to_sql('articles_table', engine, if_exists='replace', index=False)
 
-# Close the connection
+# Create a cursor to execute SQL queries
+cursor = conn.cursor()
+
+# SQL update query
+update_query = """
+    UPDATE articles_table
+    SET authors = REPLACE(REPLACE(authors, 'Authors:', ''), E'\\n', '')
+    WHERE authors LIKE '%Authors:%' OR authors LIKE '%' || E'\\n' || '%'
+"""
+
+# chage Appreciated column type to Text in order to be able to store Appreciated values generated in InterestRecom.ipynb
+update_column_type_query = "ALTER TABLE researchers_table ALTER COLUMN \"Appreciated\" TYPE TEXT;"
+cursor.execute(update_column_type_query)
+
+# Execute the update query
+cursor.execute(update_query)
+
+# Commit the changes to the database
+conn.commit()
+
+# Close the cursor and the connection
+cursor.close()
 conn.close()
+
+
