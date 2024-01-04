@@ -1,35 +1,40 @@
 Article ID: arXiv:2310.02113
 Recommended to Researchers:
-- LEORDEANU, Catalin
 - TAPUS, Nicolae
-- APOSTOL, Elena Simona
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
 - OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.05269
 Recommended to Researchers:
 - LEORDEANU, Catalin
-- APOSTOL, Elena Simona
+- OLTEANU, Alexandru
 - SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.11730
 Recommended to Researchers:
 - LEORDEANU, Catalin
-- APOSTOL, Elena Simona
+- OLTEANU, Alexandru
 - SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.09665
 Recommended to Researchers:
+- DOBRE, Ciprian Mihai
+- NEGRU, Catalin
 - POP, Florin
 - LEORDEANU, Catalin
-- NEGRU, Catalin
-- DOBRE, Ciprian Mihai
 - APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.13424
 Recommended to Researchers:
 - LEORDEANU, Catalin
-- APOSTOL, Elena Simona
 - SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2311.02100
 Recommended to Researchers:
@@ -39,21 +44,27 @@ Recommended to Researchers:
 Article ID: arXiv:2310.01689
 Recommended to Researchers:
 - RADOVICI, Alexandru
+- TAPUS, Nicolae
+- ROSNER, Daniel
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- MOISESCU, Mihnea Alexandru
+- NEGRU, Catalin
 - POP, Florin
 - LEORDEANU, Catalin
-- ROSNER, Daniel
-- MOISESCU, Mihnea Alexandru
-- DOBRE, Ciprian Mihai
 - APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.01676
 Recommended to Researchers:
 - RADOVICI, Alexandru
+- TAPUS, Nicolae
+- ROSNER, Daniel
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- MOISESCU, Mihnea Alexandru
+- NEGRU, Catalin
 - POP, Florin
 - LEORDEANU, Catalin
-- ROSNER, Daniel
-- MOISESCU, Mihnea Alexandru
-- DOBRE, Ciprian Mihai
 - APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.06338
@@ -64,11 +75,11 @@ Recommended to Researchers:
 Article ID: arXiv:2310.04975
 Recommended to Researchers:
 - RADOVICI, Alexandru
+- ROSNER, Daniel
+- DOBRE, Ciprian Mihai
+- MOISESCU, Mihnea Alexandru
 - POP, Florin
 - LEORDEANU, Catalin
-- ROSNER, Daniel
-- MOISESCU, Mihnea Alexandru
-- DOBRE, Ciprian Mihai
 - APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.03841
@@ -89,22 +100,22 @@ Recommended to Researchers:
 Article ID: arXiv:2310.11373
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
 - LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.09370
 Recommended to Researchers:
 - LEORDEANU, Catalin
-- APOSTOL, Elena Simona
 - SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.09193
 Recommended to Researchers:
+- SLUSANSCHI, Emil Ioan
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - LEORDEANU, Catalin
-- DOBRE, Ciprian Mihai
 - APOSTOL, Elena Simona
-- SLUSANSCHI, Emil Ioan
 
 Article ID: arXiv:2310.16190
 Recommended to Researchers:
@@ -119,9 +130,9 @@ Recommended to Researchers:
 Article ID: arXiv:2310.14669
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
-- SLUSANSCHI, Emil Ioan
 - LEORDEANU, Catalin
+- SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2311.00270
 Recommended to Researchers:
@@ -131,8 +142,8 @@ Recommended to Researchers:
 Article ID: arXiv:2310.20036
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
 - LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.19459
 Recommended to Researchers:
@@ -142,20 +153,20 @@ Recommended to Researchers:
 Article ID: arXiv:2310.18042
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
 - LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2311.03612
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
 - LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2311.02582
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
-- APOSTOL, Elena Simona
 - LEORDEANU, Catalin
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2311.02351
 Recommended to Researchers:
@@ -164,406 +175,848 @@ Recommended to Researchers:
 
 Article ID: arXiv:2311.04333
 Recommended to Researchers:
-- APOSTOL, Elena Simona
 - OLTEANU, Alexandru
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.03618
 Recommended to Researchers:
+- TAPUS, Nicolae
+- TIGANOAIA, Bogdan
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
 - STOICAN, Florin
 - POP, Florin
-- TIGANOAIA, Bogdan
-- NEGRU, Catalin
-- TAPUS, Nicolae
+- LEORDEANU, Catalin
 - APOSTOL, Elena Simona
-- OLTEANU, Alexandru
 
 Article ID: arXiv:2310.03294
 Recommended to Researchers:
-- MOCANU, Bogdan Costel
-- SLUSANSCHI, Emil Ioan
-- POP, Florin
-- NEGRU, Catalin
 - TAPUS, Nicolae
-- APOSTOL, Elena Simona
+- SLUSANSCHI, Emil Ioan
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
 - OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- CHIRU, Costin Gabriel
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.03178
 Recommended to Researchers:
-- MOCANU, Bogdan Costel
-- TAPUS, Nicolae
 - RADOVICI, Alexandru
-- CARABAS, Costin
-- VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- NEGRU, Catalin
-- RUSETI, Stefan
-- MOCANU, Mariana Ionela
 - RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
+- TAPUS, Nicolae
+- VADUVA, Alexandru Jan
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
 - STANILOIU, Constantin Eduard
-- APOSTOL, Elena Simona
+- MOCANU, Mariana Ionela
+- LEORDEANU, Catalin
+- NEGRU, Catalin
 - OLTEANU, Alexandru
+- RADOI, Ion Emilian
+- POP, Florin
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.03156
+Recommended to Researchers:
+- TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.03150
+Recommended to Researchers:
+- TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.02784
+Recommended to Researchers:
+- TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.02651
+Recommended to Researchers:
+- TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.02422
+Recommended to Researchers:
+- TAPUS, Nicolae
+- SLUSANSCHI, Emil Ioan
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- FLOREA, Adina Magda
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.02420
+Recommended to Researchers:
+- TAPUS, Nicolae
+- SLUSANSCHI, Emil Ioan
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- OLTEANU, Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.02065
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- OLTEANU, Alexandru
+- NEGRU, Catalin
+- POP, Florin
+- TAPUS, Nicolae
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.01973
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- OLTEANU, Alexandru
+- NEGRU, Catalin
+- TAPUS, Nicolae
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.01972
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- OLTEANU, Alexandru
+- NEGRU, Catalin
+- TAPUS, Nicolae
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.01247
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- OLTEANU, Alexandru
+- NEGRU, Catalin
+- TAPUS, Nicolae
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.01195
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- OLTEANU, Alexandru
+- NEGRU, Catalin
+- TAPUS, Nicolae
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.00967
+Recommended to Researchers:
+- TAPUS, Nicolae
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.00627
+Recommended to Researchers:
+- TAPUS, Nicolae
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.00247
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.00109
+Recommended to Researchers:
+- DOBRE, Ciprian Mihai
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2309.17383
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2309.17340
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2309.16976
+Recommended to Researchers:
+- DOBRE, Ciprian Mihai
+- OLTEANU, Alexandru
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2309.16743
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
+
+Article ID: arXiv:2310.08339
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+- APOSTOL, Elena Simona
 
 Article ID: arXiv:2310.00562
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
-- VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
 - MOCANU, Irina
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
+- VADUVA, Alexandru Jan
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03736
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03702
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03655
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOISESCU, Mihnea Alexandru
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03528
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03501
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOISESCU, Mihnea Alexandru
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03475
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03441
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03159
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03105
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.03692
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02898
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02879
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02779
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02604
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02390
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- CARABAS, Costin
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02387
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02142
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02064
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02023
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01983
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01682
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- MOCANU, Mariana Ionela
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01646
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01546
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02259
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01310
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01155
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.01010
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.00990
 Recommended to Researchers:
-- CARABAS, Costin
+- RADOVICI, Alexandru
 - VADUVA, Alexandru Jan
-- TUDOSE, Dan Stefan
-- RUGHINIS, Razvan Victor
-- RADOI, Ion Emilian
 - STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
 - RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00976
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00958
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00468
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00322
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00136
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.00029
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- STOICAN, Florin
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2309.16914
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2309.16712
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2309.16709
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08473
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08454
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08314
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08194
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08089
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- MOCANU, Mariana Ionela
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08066
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.07977
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.07874
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- REBEDEA, Traian
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.07809
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.08285
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
+
+Article ID: arXiv:2310.07865
+Recommended to Researchers:
+- VADUVA, Alexandru Jan
+- STANILOIU, Constantin Eduard
+- RADOI, Ion Emilian
+- CARABAS, Costin
+- TUDOSE, Dan Stefan
+- RUSETI, Stefan
+- RUGHINIS, Razvan Victor
 
 Article ID: arXiv:2310.02357
 Recommended to Researchers:
 - REBEDEA, Traian
+- FLOREA, Adina Magda
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
 
 Article ID: arXiv:2310.14261
 Recommended to Researchers:
 - REBEDEA, Traian
+- FLOREA, Adina Magda
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
+
+Article ID: arXiv:2310.01551
+Recommended to Researchers:
+- CHIRU, Costin Gabriel
+- REBEDEA, Traian
+
+Article ID: arXiv:2310.00526
+Recommended to Researchers:
+- CHIRU, Costin Gabriel
+- REBEDEA, Traian
+
+Article ID: arXiv:2310.05309
+Recommended to Researchers:
+- CHIRU, Costin Gabriel
+- REBEDEA, Traian
 
 Article ID: arXiv:2310.04425
 Recommended to Researchers:
-- MOISESCU, Mihnea Alexandru
+- REBEDEA, Traian
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
+- MOISESCU, Mihnea Alexandru
 
 Article ID: arXiv:2310.10941
 Recommended to Researchers:
+- REBEDEA, Traian
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
 
 Article ID: arXiv:2310.17644
 Recommended to Researchers:
+- REBEDEA, Traian
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
 
 Article ID: arXiv:2310.16485
 Recommended to Researchers:
+- REBEDEA, Traian
+- CHIRU, Costin Gabriel
+- DASCALU, Mihai
+
+Article ID: arXiv:2311.02579
+Recommended to Researchers:
+- REBEDEA, Traian
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
 
@@ -607,31 +1060,86 @@ Recommended to Researchers:
 - CHIRU, Costin Gabriel
 - DASCALU, Mihai
 
+Article ID: arXiv:2310.15719
+Recommended to Researchers:
+- MOCANU, Irina
+- CHIRU, Costin Gabriel
+- DASCALU, Mihai
+
+Article ID: arXiv:2310.03744
+Recommended to Researchers:
+- MOCANU, Irina
+- CHIRU, Costin Gabriel
+- DASCALU, Mihai
+
+Article ID: arXiv:2310.03739
+Recommended to Researchers:
+- MOCANU, Irina
+- CHIRU, Costin Gabriel
+
+Article ID: arXiv:2310.03731
+Recommended to Researchers:
+- MOCANU, Irina
+- CHIRU, Costin Gabriel
+
+Article ID: arXiv:2310.03718
+Recommended to Researchers:
+- MOCANU, Irina
+- CHIRU, Costin Gabriel
+
 Article ID: arXiv:2310.03714
 Recommended to Researchers:
-- REBEDEA, Traian
 - CHIRU, Costin Gabriel
+- REBEDEA, Traian
+
+Article ID: arXiv:2310.03605
+Recommended to Researchers:
+- CHIRU, Costin Gabriel
+- REBEDEA, Traian
+
+Article ID: arXiv:2310.03581
+Recommended to Researchers:
+- DEACONESCU, Razvan
+- CHIRU, Costin Gabriel
+
+Article ID: arXiv:2310.03557
+Recommended to Researchers:
+- MOISESCU, Mihnea Alexandru
+- CIRTOAJE, Cristina
 
 Article ID: arXiv:2310.12802
 Recommended to Researchers:
-- CIRTOAJE, Cristina
 - FLOREA, Adina Magda
+- CIRTOAJE, Cristina
+
+Article ID: arXiv:2310.02990
+Recommended to Researchers:
+- TIGANOAIA, Bogdan
+- STOICAN, Florin
+- DEACONESCU, Razvan
 
 Article ID: arXiv:2310.00254
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- POP, Florin
 - ROSNER, Daniel
-- MOISESCU, Mihnea Alexandru
 - DOBRE, Ciprian Mihai
+- MOISESCU, Mihnea Alexandru
+- POP, Florin
 
 Article ID: arXiv:2311.02093
 Recommended to Researchers:
 - RADOVICI, Alexandru
-- POP, Florin
 - ROSNER, Daniel
-- MOISESCU, Mihnea Alexandru
 - DOBRE, Ciprian Mihai
+- MOISESCU, Mihnea Alexandru
+- POP, Florin
+
+Article ID: arXiv:2310.01594
+Recommended to Researchers:
+- DOBRE, Ciprian Mihai
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+- TAPUS, Nicolae
 
 Article ID: arXiv:2309.16707
 Recommended to Researchers:
@@ -645,358 +1153,545 @@ Recommended to Researchers:
 
 Article ID: arXiv:2310.03003
 Recommended to Researchers:
-- DOBRE, Ciprian Mihai
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.12702
 Recommended to Researchers:
 - DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 
-Article ID: arXiv:2310.02422
-Recommended to Researchers:
-- MOCANU, Bogdan Costel
-- FLOREA, Adina Magda
-- OLTEANU, Alexandru
-- NEGRU, Catalin
-- TAPUS, Nicolae
-- SLUSANSCHI, Emil Ioan
-
-Article ID: arXiv:2311.00724
-Recommended to Researchers:
-- POP, Florin
-- LEORDEANU, Catalin
-
-Article ID: arXiv:2311.04517
-Recommended to Researchers:
-- POP, Florin
-- LEORDEANU, Catalin
-
-Article ID: arXiv:2311.04482
-Recommended to Researchers:
-- POP, Florin
-- LEORDEANU, Catalin
-
-Article ID: arXiv:2310.14283
-Recommended to Researchers:
-- MOCANU, Bogdan Costel
-- ROSNER, Daniel
-
 Article ID: arXiv:2310.03616
 Recommended to Researchers:
+- TAPUS, Nicolae
+- TIGANOAIA, Bogdan
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
+- NEGRU, Catalin
 - STOICAN, Florin
 - POP, Florin
-- TIGANOAIA, Bogdan
-- NEGRU, Catalin
-- TAPUS, Nicolae
-
-Article ID: arXiv:2310.02800
-Recommended to Researchers:
-- MOCANU, Bogdan Costel
-- STOICAN, Florin
-- TIGANOAIA, Bogdan
-- NEGRU, Catalin
-- TAPUS, Nicolae
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.03568
 Recommended to Researchers:
-- POP, Florin
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.03371
 Recommended to Researchers:
-- POP, Florin
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.03200
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
-
-Article ID: arXiv:2310.03156
-Recommended to Researchers:
-- TAPUS, Nicolae
-- MOCANU, Bogdan Costel
-- OLTEANU, Alexandru
-- NEGRU, Catalin
-
-Article ID: arXiv:2310.03150
-Recommended to Researchers:
-- TAPUS, Nicolae
-- MOCANU, Bogdan Costel
-- OLTEANU, Alexandru
-- NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02959
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02926
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
-Article ID: arXiv:2310.02784
+Article ID: arXiv:2310.02800
 Recommended to Researchers:
 - TAPUS, Nicolae
+- TIGANOAIA, Bogdan
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
-- OLTEANU, Alexandru
 - NEGRU, Catalin
-
-Article ID: arXiv:2310.02651
-Recommended to Researchers:
-- TAPUS, Nicolae
-- MOCANU, Bogdan Costel
-- OLTEANU, Alexandru
-- NEGRU, Catalin
+- STOICAN, Florin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02449
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
-
-Article ID: arXiv:2310.02420
-Recommended to Researchers:
-- TAPUS, Nicolae
-- MOCANU, Bogdan Costel
-- OLTEANU, Alexandru
-- NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02380
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
 - MOCANU, Bogdan Costel
 - NEGRU, Catalin
-
-Article ID: arXiv:2310.00029
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2311.02389
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2310.01039
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2310.05170
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2310.15887
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2311.04569
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2311.04126
-Recommended to Researchers:
-- STOICAN, Florin
-- MOCANU, Mariana Ionela
-
-Article ID: arXiv:2310.03401
-Recommended to Researchers:
-- ROSNER, Daniel
-- RADOVICI, Alexandru
-- MOISESCU, Mihnea Alexandru
-
-Article ID: arXiv:2310.18664
-Recommended to Researchers:
-- ROSNER, Daniel
-- RADOVICI, Alexandru
-- MOISESCU, Mihnea Alexandru
-
-Article ID: arXiv:2310.18382
-Recommended to Researchers:
-- ROSNER, Daniel
-- RADOVICI, Alexandru
-- MOISESCU, Mihnea Alexandru
-
-Article ID: arXiv:2311.04944
-Recommended to Researchers:
-- ROSNER, Daniel
-- RADOVICI, Alexandru
-- MOISESCU, Mihnea Alexandru
-
-Article ID: arXiv:2311.02926
-Recommended to Researchers:
-- ROSNER, Daniel
-- RADOVICI, Alexandru
-- MOISESCU, Mihnea Alexandru
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02872
 Recommended to Researchers:
 - TAPUS, Nicolae
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
 - NEGRU, Catalin
+- POP, Florin
+- LEORDEANU, Catalin
 
 Article ID: arXiv:2310.02183
 Recommended to Researchers:
+- DOBRE, Ciprian Mihai
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- POP, Florin
+- TAPUS, Nicolae
+
+Article ID: arXiv:2311.02840
+Recommended to Researchers:
+- FLOREA, Adina Magda
+- SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2311.00724
+Recommended to Researchers:
+- LEORDEANU, Catalin
+- SLUSANSCHI, Emil Ioan
+- POP, Florin
+
+Article ID: arXiv:2311.04517
+Recommended to Researchers:
+- LEORDEANU, Catalin
+- POP, Florin
+
+Article ID: arXiv:2311.04482
+Recommended to Researchers:
+- LEORDEANU, Catalin
+- POP, Florin
+
+Article ID: arXiv:2310.14283
+Recommended to Researchers:
+- ROSNER, Daniel
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.18861
+Recommended to Researchers:
+- MOCANU, Bogdan Costel
+- SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2310.01893
+Recommended to Researchers:
+- TIGANOAIA, Bogdan
+- MOCANU, Bogdan Costel
+- NEGRU, Catalin
+- STOICAN, Florin
+- TAPUS, Nicolae
+
+Article ID: arXiv:2310.01878
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.02120
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+- POP, Florin
+
+Article ID: arXiv:2310.01976
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+- POP, Florin
+
+Article ID: arXiv:2310.01914
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01882
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01586
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01212
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01151
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01136
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2310.01028
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+- MOCANU, Bogdan Costel
+
+Article ID: arXiv:2311.05420
+Recommended to Researchers:
+- MOCANU, Irina
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2311.02389
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+
+Article ID: arXiv:2310.01039
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.05170
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+
+Article ID: arXiv:2310.15887
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+
+Article ID: arXiv:2311.04569
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+
+Article ID: arXiv:2311.04126
+Recommended to Researchers:
+- MOCANU, Mariana Ionela
+- STOICAN, Florin
+
+Article ID: arXiv:2310.03401
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- ROSNER, Daniel
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2310.18664
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- ROSNER, Daniel
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2310.18382
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- ROSNER, Daniel
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2311.04944
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- ROSNER, Daniel
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2311.02926
+Recommended to Researchers:
+- RADOVICI, Alexandru
+- ROSNER, Daniel
+- MOISESCU, Mihnea Alexandru
+
+Article ID: arXiv:2310.00560
+Recommended to Researchers:
 - TAPUS, Nicolae
 - NEGRU, Catalin
 
+Article ID: arXiv:2310.00989
+Recommended to Researchers:
+- TAPUS, Nicolae
+- NEGRU, Catalin
+
+Article ID: arXiv:2310.00782
+Recommended to Researchers:
+- TAPUS, Nicolae
+- OLTEANU, Alexandru
+
+Article ID: arXiv:2310.05293
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- TRUICA, Ciprian Octavian
+
 Article ID: arXiv:2310.06916
 Recommended to Researchers:
+- OLTEANU, Alexandru
 - SLUSANSCHI, Emil Ioan
-- OLTEANU, Alexandru
 
-Article ID: arXiv:2310.02065
+Article ID: arXiv:2310.05306
 Recommended to Researchers:
-- TAPUS, Nicolae
 - OLTEANU, Alexandru
-
-Article ID: arXiv:2310.01973
-Recommended to Researchers:
-- TAPUS, Nicolae
-- OLTEANU, Alexandru
-
-Article ID: arXiv:2310.00627
-Recommended to Researchers:
 - SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2310.10102
+Recommended to Researchers:
 - OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2311.04818
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2310.06178
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
+
+Article ID: arXiv:2310.05205
+Recommended to Researchers:
+- OLTEANU, Alexandru
+- SLUSANSCHI, Emil Ioan
 
 Article ID: arXiv:2310.12298
 Recommended to Researchers:
-- POP, Florin
+- OLTEANU, Alexandru
 - SLUSANSCHI, Emil Ioan
+- POP, Florin
 
 Article ID: arXiv:2311.05063
 Recommended to Researchers:
-- TAPUS, Nicolae
 - RADOVICI, Alexandru
+- TAPUS, Nicolae
 
 Article ID: arXiv:2310.04172
 Recommended to Researchers:
-- TAPUS, Nicolae
 - RADOVICI, Alexandru
+- TAPUS, Nicolae
 
 Article ID: arXiv:2310.16214
 Recommended to Researchers:
-- TAPUS, Nicolae
 - RADOVICI, Alexandru
+- TAPUS, Nicolae
 
 Article ID: arXiv:2310.02540
 Recommended to Researchers:
-- REBEDEA, Traian
 - TRUICA, Ciprian Octavian
+- REBEDEA, Traian
 
 Article ID: arXiv:2310.12289
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03673
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03659
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03620
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03533
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03491
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03318
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03248
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03202
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03174
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03128
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03046
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.03044
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
-
-Article ID: arXiv:2310.02990
-Recommended to Researchers:
 - TIGANOAIA, Bogdan
-- STOICAN, Florin
 
 Article ID: arXiv:2310.02985
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.02799
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.02598
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.02432
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.02407
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
 
 Article ID: arXiv:2310.02395
 Recommended to Researchers:
-- TIGANOAIA, Bogdan
 - STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02368
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02836
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02154
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02128
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02104
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02102
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02062
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02059
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02046
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.02003
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01905
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01831
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01803
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01796
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01727
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01726
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01719
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
+
+Article ID: arXiv:2310.01653
+Recommended to Researchers:
+- STOICAN, Florin
+- TIGANOAIA, Bogdan
 

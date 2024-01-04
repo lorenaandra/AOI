@@ -51,6 +51,9 @@ cursor.execute(update_column_type_query)
 update_column_type_query_rndm = "ALTER TABLE researchers_table ALTER COLUMN \"Random Recommendation\" TYPE TEXT;"
 cursor.execute(update_column_type_query_rndm)
 
+update_column_type_query_best_match = "ALTER TABLE researchers_table ALTER COLUMN \"Best Match ID\" TYPE TEXT;"
+cursor.execute(update_column_type_query_best_match)
+
 
 cursor.execute(update_query)
 conn.commit()
